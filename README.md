@@ -1,2 +1,2 @@
-# Ola-mundo
- começando do 0
+# Olá, mundo!
+ começando do zero.
